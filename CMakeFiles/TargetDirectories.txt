@@ -1,0 +1,4 @@
+/home/mohamed/Downloads/test/corrected4/makefile_rtos_proteus_half_worked/CMakeFiles/Smart-Car-Parking-Management-System.elf.dir
+/home/mohamed/Downloads/test/corrected4/makefile_rtos_proteus_half_worked/CMakeFiles/clean_all.dir
+/home/mohamed/Downloads/test/corrected4/makefile_rtos_proteus_half_worked/CMakeFiles/edit_cache.dir
+/home/mohamed/Downloads/test/corrected4/makefile_rtos_proteus_half_worked/CMakeFiles/rebuild_cache.dir
