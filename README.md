@@ -13,7 +13,7 @@ This project comes with comprehensive documentation, example integrations for sm
 
 ## Key Highlights  
 - **Target Platform:** STM32F401VE (ARM Cortex‑M4) and compatible Cortex‑M4 MCUs.  
-- **Use Case:** Embedded control for smart car management, including real‑time sensor sampling, actuator control, and communication scheduling.  
+- **Use Case:** Embedded control for smart Parking management, including real‑time sensor sampling, actuator control, and communication scheduling.  
 - **Language & Toolchain:**  C (GNU11), GNU Arm Embedded Toolchain (arm-none-eabi-gcc), CMSIS-compliant startup code.​  
 
 ---
