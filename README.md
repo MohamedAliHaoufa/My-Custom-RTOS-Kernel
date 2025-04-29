@@ -1,6 +1,6 @@
 # My-Custom-RTOS-Scheduler-for-Smart-Car-Management-on-STM32F401VE
 
-**My Custom RTOS Scheduler for Smart Car Management on STM32F401VE** is a lightweight, preemptive real‑time kernel engineered specifically for ARM Cortex‑M4 microcontrollers. Designed with automotive‑grade precision in mind, this scheduler provides deterministic task management, minimal latency, and an ultra‑small memory footprint, making it ideal for embedded control in smart car management systems. The scheduler core is written in C, ensuring portability across all Cortex‑M4 devices, and features:
+**My Custom RTOS Kernel for Smart Car Management on STM32F401VE** is a lightweight, preemptive real‑time kernel engineered specifically for ARM Cortex‑M4 microcontrollers. Designed with automotive‑grade precision in mind, this scheduler provides deterministic task management, minimal latency, and an ultra‑small memory footprint, making it ideal for embedded control in smart car management systems. The scheduler core is written in C, ensuring portability across all Cortex‑M4 devices, and features:
 
 - **Priority‑based Scheduling:** Implements a fixed‑priority preemptive algorithm with round‑robin time slicing to guarantee timely task execution.  
 - **Dynamic Task Management:** Supports runtime task creation, deletion, and priority adjustment for flexible application workflows.  
