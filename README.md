@@ -1,4 +1,4 @@
-# My-Custom-RTOS-Scheduler-for-Smart-Parking-Management-on-STM32F401VE
+# My-Custom-RTOS-Kernel-for-Smart-Parking-Management-on-STM32F401VE
 
 **My Custom RTOS Kernel for Smart Parking Management on STM32F401VE** is a lightweight, preemptive real‑time kernel engineered specifically for ARM Cortex‑M4 microcontrollers. Designed with automotive‑grade precision in mind, this scheduler provides deterministic task management, minimal latency, and an ultra‑small memory footprint, making it ideal for embedded control in smart Parking management systems. The scheduler core is written in C, ensuring portability across all Cortex‑M4 devices, and features:
 
